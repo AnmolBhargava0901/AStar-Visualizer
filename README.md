@@ -8,7 +8,7 @@
 ## 📸 Demo Preview
 
 <!-- 🚧 Add a screenshot or GIF below -->
-![Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=AStar+Visualizer+Demo+Coming+Soon)
+![Screenshot Placeholder](https://github.com/AnmolBhargava0901/AStar-Visualizer/blob/main/test%20pic.jpg?raw=true)
 
 <!-- Optionally add more media -->
 <!-- ![Screenshot2](assets/screenshot2.png) -->
