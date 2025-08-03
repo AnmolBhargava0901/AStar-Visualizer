@@ -84,6 +84,36 @@ This project is perfect for:
 * Anyone curious about how GPS and AI make decisions
 
 ---
+To add a photo (or GIF demo) in your README, you can use Markdown image syntax like this:
+
+```markdown
+![AStar Demo](https://your-image-hosting.com/path/to/image.gif)
+```
+
+### ✅ Example (Using GitHub Repository)
+
+If you're uploading the image to the same GitHub repo, place your image (e.g., `demo.gif`) in your project folder and use:
+
+```markdown
+![AStar Demo](./demo.gif)
+```
+
+Or, if it's in a subfolder like `assets/`:
+
+```markdown
+![AStar Demo](assets/demo.gif)
+```
+
+### 📤 Free Hosting Options
+
+If you don't want to keep the image in your repo, you can upload it to:
+
+* [Imgur](https://imgur.com/)
+* [Postimages](https://postimages.org/)
+* [GitHub Issues (drag image into a new issue and copy link)](https://github.com/yourusername/yourrepo/issues)
+
+Let me know if you want me to generate a placeholder image or GIF demo for you.
+
 
 
 
