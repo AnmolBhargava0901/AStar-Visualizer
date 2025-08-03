@@ -1,5 +1,5 @@
 
-# 🌟 AStar Visualizer - Interactive Pathfinding Algorithm Demo
+# 🌟 AStar Visualizer - Interactive Pathfinding Algorithm 
 
 **AStar Visualizer** is an intuitive and educational tool that demonstrates the **A\*** (A-Star) pathfinding algorithm in real time. Built using **Python** and **Pygame**, this app visualizes how smart algorithms find the shortest route in complex environments. Perfect for students, teachers, and developers.
 
