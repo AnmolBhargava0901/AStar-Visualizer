@@ -130,8 +130,3 @@ If you liked the project:
 * Share it with friends or classmates
 * Use it in your next project or teaching session!
 
----
-
-
-Ready to upload this to your GitHub when you are!
-```
