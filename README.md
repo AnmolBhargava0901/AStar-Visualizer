@@ -5,7 +5,7 @@
 
 ---
 
-## 📸 Demo Preview
+## 📸 Preview
 
 <!-- 🚧 Add a screenshot or GIF below -->
 ![Screenshot Placeholder]!
