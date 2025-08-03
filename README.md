@@ -8,7 +8,8 @@
 ## 📸 Demo Preview
 
 <!-- 🚧 Add a screenshot or GIF below -->
-![Screenshot Placeholder]![test pic](https://github.com/user-attachments/assets/38fee9f0-d813-4186-944f-4a0393996218)
+![Screenshot Placeholder]![test pic]
+<img width="987" height="1018" alt="final test" src="https://github.com/user-attachments/assets/bce3ba52-65b7-4b32-bd0f-2092f8c68fc6" />
 
 
 <!-- Optionally add more media -->
